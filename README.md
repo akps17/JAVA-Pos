@@ -1,5 +1,8 @@
 # Cafe POS System
 
+ testing the commit push 
+
+ 
 A comprehensive Point of Sale (POS) system for cafes built with Java Swing using **MVC Architecture**.
 
 ## Project Overview
